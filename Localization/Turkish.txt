@@ -1,0 +1,29 @@
+# English / Turkish
+#
+# Authors:
+# Yunusa13
+
+## Items (Names)
+item.generic_dirt.name=Toprak
+item.generic_stone.name=Taş
+item.generic_ore_iron.name=Demir cevheri 
+item.generic_ore_copper.name=Bakır cevheri 
+item.generic_ore_tin.name=Tin cevheri 
+item.generic_ore_silver.name=Gümüş cevheri 
+item.generic_ore_zinc.name=Zink cevheri 
+item.generic_ore_aluminum.name=Aluminyum cevheri 
+item.generic_ore_magnetite.name=Magnetite cevheri 
+item.generic_coal.name=Kömür
+item.generic_workbench.name=Çalışma Masası 
+item.generic_smeltery.name=Smeltery
+
+## Inventories
+gui.inventory.player=Envanter
+gui.inventory.crafting=Üretim
+gui.inventory.smeltery=Smelting
+gui.inventory.equipment=Ekipman
+gui.slot.equipment.drill=Drill yuvası
+gui.tooltip.more=Daha fazla bilgi için ''Shift'' tuşuna basılı tutun
+
+## Entities
+entity.DroppedItem.name=Düşen Eşya
